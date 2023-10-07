@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-PRIVATE_HOSTS=("private-1" "private-2")
+PRIVATE_HOSTS=("private-1")
 
 
 # MySQL database configuration
